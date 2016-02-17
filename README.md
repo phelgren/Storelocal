@@ -1,5 +1,5 @@
 # Storelocal
-This basically came about because we had users that would begin to type in form data and then navigate away or leave their computer long enough that the form or session data wasn't retained.  Saving each elements value while they typed seemed a safe, easy solution so that is how the storedata.js library was born.  I am not a JS genius by any stretch so use it at your own risk.  My classic answer "Works for me",  You use case may not be the same.
+This basically came about because we had users that would begin to type in form data and then navigate away or leave their computer long enough that the form or session data wasn't retained.  Saving each element's value in local storage while they typed seemed a safe, easy solution so that is how the storedata.js library was born.  I am not a JS genius by any stretch so use it at your own risk.  My classic answer is "Works for me"!  Your use case may not be the same.
 
 Javascript library for retaining field data in localstorage.
 
